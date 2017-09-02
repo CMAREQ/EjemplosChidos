@@ -1,6 +1,6 @@
 import sys
 
-def bcc(n,al):
+def birthdayCakeCandles(n, al):
     l = 0
     alMax = max(al)
 
@@ -12,5 +12,5 @@ def bcc(n,al):
 n = int(input().strip())
 al = list(map(int, input().strip().split(' ')))
 
-result = bcc(n,al)
+result = birthdayCakeCandles(n, al)
 print (result)

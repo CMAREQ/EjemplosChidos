@@ -1,7 +1,7 @@
 import sys
 
 def MinMax(num):
-    sumaMin = 1000000000
+    sumaMin = 999999999999999
     sumaMax = 0
     sumaTotal = sum(num)
     for i in range(5):
