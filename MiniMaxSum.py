@@ -12,5 +12,7 @@ def MinMax(num):
             sumaMax = numActual
     print (sumaMin, sumaMax)
 
-num = list(map(int, input().strip().split(' ')))
-MinMax(num)
+
+if __name__ == '__main__':
+    num = list(map(int, input().strip().split(' ')))
+    MinMax(num)

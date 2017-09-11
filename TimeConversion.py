@@ -14,7 +14,8 @@ def timeConversion(s):
     else:
         return (str(int(hora) + 12) + s[2:-2])
 
-s = input().strip()
-result = timeConversion(s)
+if __name__ == '__main__':
+    s = input().strip()
+    result = timeConversion(s)
 
-print(result)
+    print(result)

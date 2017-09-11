@@ -9,8 +9,9 @@ def birthdayCakeCandles(n, al):
             l += 1
     return l
 
-n = int(input().strip())
-al = list(map(int, input().strip().split(' ')))
+if __name__ == "__main__":
+    n = int(input().strip())
+    al = list(map(int, input().strip().split(' ')))
 
-result = birthdayCakeCandles(n, al)
-print (result)
+    result = birthdayCakeCandles(n, al)
+    print (result)
