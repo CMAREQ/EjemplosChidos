@@ -1,0 +1,9 @@
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\AgendaAsistente2\AgendaAsistente2\bin\Debug\agenda.accdb
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\AgendaAsistente2\AgendaAsistente2\bin\Debug\AgendaAsistente2.exe.config
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\AgendaAsistente2\AgendaAsistente2\bin\Debug\AgendaAsistente2.exe
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\AgendaAsistente2\AgendaAsistente2\bin\Debug\AgendaAsistente2.pdb
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\AgendaAsistente2\AgendaAsistente2\obj\x86\Debug\AgendaAsistente2.Form1.resources
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\AgendaAsistente2\AgendaAsistente2\obj\x86\Debug\AgendaAsistente2.Properties.Resources.resources
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\AgendaAsistente2\AgendaAsistente2\obj\x86\Debug\AgendaAsistente2.csproj.GenerateResource.Cache
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\AgendaAsistente2\AgendaAsistente2\obj\x86\Debug\AgendaAsistente2.exe
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\AgendaAsistente2\AgendaAsistente2\obj\x86\Debug\AgendaAsistente2.pdb

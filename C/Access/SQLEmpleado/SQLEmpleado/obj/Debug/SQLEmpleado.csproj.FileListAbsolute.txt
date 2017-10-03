@@ -1,0 +1,9 @@
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\SQLEmpleado\SQLEmpleado\bin\Debug\SQLEmpleado.exe.config
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\SQLEmpleado\SQLEmpleado\bin\Debug\SQLEmpleado.exe
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\SQLEmpleado\SQLEmpleado\bin\Debug\SQLEmpleado.pdb
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\SQLEmpleado\SQLEmpleado\obj\Debug\SQLEmpleado.csprojResolveAssemblyReference.cache
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\SQLEmpleado\SQLEmpleado\obj\Debug\SQLEmpleado.Form1.resources
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\SQLEmpleado\SQLEmpleado\obj\Debug\SQLEmpleado.Properties.Resources.resources
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\SQLEmpleado\SQLEmpleado\obj\Debug\SQLEmpleado.csproj.GenerateResource.Cache
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\SQLEmpleado\SQLEmpleado\obj\Debug\SQLEmpleado.exe
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\SQLEmpleado\SQLEmpleado\obj\Debug\SQLEmpleado.pdb

@@ -1,0 +1,45 @@
+CREATE PROCEDURE dbo.AlActualiza
+	@Nombre varchar(50),
+	@Apellido varchar(50),
+	@Materia varchar(50),
+	@Matricula varchar(5)
+AS
+	begin
+	update dbo.Alumno
+	set Nombre = @Nombre, Apellido=@Apellido, Materia=@Materia
+	where Matricula=@Matricula
+	RETURN 
+	end
+
+
+
+CREATE PROCEDURE dbo.AlAlta
+	@Matricula varchar(5),
+	@Nombre varchar(50),
+	@Apellido varchar(50),
+	@Materia varchar(50)
+AS
+	begin
+		insert into dbo.Alumno
+		values(@Matricula,@Nombre,@Apellido,@Materia)
+	RETURN 
+	end
+
+
+Create procedure dbo.AlBaja
+	@Matricula varchar(5)
+as
+	begin
+		delete from dbo.Alumno	
+		where Matricula=@Matricula
+	return
+	end
+
+
+Create procedure dbo.AlConsulta
+	@Matricula varchar(5)
+as
+	begin
+		select * from dbo.Alumno where Matricula=@Matricula
+	return
+	end

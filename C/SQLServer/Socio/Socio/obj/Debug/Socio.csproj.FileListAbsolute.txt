@@ -1,0 +1,8 @@
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Socio\Socio\bin\Debug\Socio.exe
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Socio\Socio\bin\Debug\Socio.pdb
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Socio\Socio\obj\Debug\Socio.csprojResolveAssemblyReference.cache
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Socio\Socio\obj\Debug\Socio.Properties.Resources.resources
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Socio\Socio\obj\Debug\Socio.csproj.GenerateResource.Cache
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Socio\Socio\obj\Debug\Socio.exe
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Socio\Socio\obj\Debug\Socio.pdb
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Socio\Socio\obj\Debug\Socio.Soc.resources

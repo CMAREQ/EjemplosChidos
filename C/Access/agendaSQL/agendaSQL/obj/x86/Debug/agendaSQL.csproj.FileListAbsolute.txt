@@ -1,0 +1,9 @@
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\agendaSQL\agendaSQL\obj\x86\Debug\agendaSQL.frm_agenda_sql.resources
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\agendaSQL\agendaSQL\obj\x86\Debug\agendaSQL.Properties.Resources.resources
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\agendaSQL\agendaSQL\obj\x86\Debug\agendaSQL.csproj.GenerateResource.Cache
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\agendaSQL\agendaSQL\bin\Debug\agenda.accdb
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\agendaSQL\agendaSQL\bin\Debug\agendaSQL.exe.config
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\agendaSQL\agendaSQL\bin\Debug\agendaSQL.exe
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\agendaSQL\agendaSQL\bin\Debug\agendaSQL.pdb
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\agendaSQL\agendaSQL\obj\x86\Debug\agendaSQL.exe
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\agendaSQL\agendaSQL\obj\x86\Debug\agendaSQL.pdb

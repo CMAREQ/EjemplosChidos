@@ -1,0 +1,11 @@
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Emplea2\Emplea2\bin\Debug\Resources\Imagen1.jpg
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Emplea2\Emplea2\bin\Debug\DBProyecto.mdb
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Emplea2\Emplea2\bin\Debug\Emplea2.exe.config
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Emplea2\Emplea2\bin\Debug\Emplea2.exe
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Emplea2\Emplea2\bin\Debug\Emplea2.pdb
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Emplea2\Emplea2\obj\Debug\Emplea2.csprojResolveAssemblyReference.cache
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Emplea2\Emplea2\obj\Debug\Emplea2.Form1.resources
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Emplea2\Emplea2\obj\Debug\Emplea2.Properties.Resources.resources
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Emplea2\Emplea2\obj\Debug\Emplea2.csproj.GenerateResource.Cache
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Emplea2\Emplea2\obj\Debug\Emplea2.exe
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\Emplea2\Emplea2\obj\Debug\Emplea2.pdb

@@ -1,0 +1,10 @@
+c:\users\clemente\documents\visual studio 2010\Projects\AgendaAsistente1\AgendaAsistente1\bin\Debug\AgendaAsistente1.exe
+c:\users\clemente\documents\visual studio 2010\Projects\AgendaAsistente1\AgendaAsistente1\bin\Debug\AgendaAsistente1.pdb
+c:\users\clemente\documents\visual studio 2010\Projects\AgendaAsistente1\AgendaAsistente1\obj\x86\Debug\AgendaAsistente1.frm_agendaAsistente1.resources
+c:\users\clemente\documents\visual studio 2010\Projects\AgendaAsistente1\AgendaAsistente1\obj\x86\Debug\AgendaAsistente1.Properties.Resources.resources
+c:\users\clemente\documents\visual studio 2010\Projects\AgendaAsistente1\AgendaAsistente1\obj\x86\Debug\AgendaAsistente1.csproj.GenerateResource.Cache
+c:\users\clemente\documents\visual studio 2010\Projects\AgendaAsistente1\AgendaAsistente1\obj\x86\Debug\AgendaAsistente1.exe
+c:\users\clemente\documents\visual studio 2010\Projects\AgendaAsistente1\AgendaAsistente1\obj\x86\Debug\AgendaAsistente1.pdb
+c:\users\clemente\documents\visual studio 2010\Projects\AgendaAsistente1\AgendaAsistente1\bin\Debug\agenda.accdb
+c:\users\clemente\documents\visual studio 2010\Projects\AgendaAsistente1\AgendaAsistente1\bin\Debug\AgendaAsistente1.exe.config
+C:\Users\clemente\Documents\Visual Studio 2010\Projects\AgendaAsistente1\AgendaAsistente1\obj\x86\Debug\AgendaAsistente1.csprojResolveAssemblyReference.cache

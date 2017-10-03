@@ -1,0 +1,8 @@
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\ExamenAlumno\ExamenAlumno\bin\Debug\ExamenAlumno.exe
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\ExamenAlumno\ExamenAlumno\bin\Debug\ExamenAlumno.pdb
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\ExamenAlumno\ExamenAlumno\obj\Debug\ExamenAlumno.csprojResolveAssemblyReference.cache
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\ExamenAlumno\ExamenAlumno\obj\Debug\ExamenAlumno.Form1.resources
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\ExamenAlumno\ExamenAlumno\obj\Debug\ExamenAlumno.Properties.Resources.resources
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\ExamenAlumno\ExamenAlumno\obj\Debug\ExamenAlumno.csproj.GenerateResource.Cache
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\ExamenAlumno\ExamenAlumno\obj\Debug\ExamenAlumno.exe
+C:\Users\Cuauhtemoc\Documents\Visual Studio 2015\Projects\ExamenAlumno\ExamenAlumno\obj\Debug\ExamenAlumno.pdb
